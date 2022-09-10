@@ -1,0 +1,46 @@
+1. button to play
+2. home screen
+3. navigate screen
+4. regester team in order
+5. display team in orders
+6. create button to play sound
+7. imorting external libraries
+
+render shows 	every thing
+return evry thing inside 
+button is button
+on press whis is used to peticular efect in your screen
+
+time samp stopwatch 1970 jan
+mounting 
+1.constructor=inesialize object	
+2.getDerive
+
+json = java script object notation
+inside jason keys and values
+
+API = Application programming interface
+fetch(){
+used for fetch
+}
+constructor insialise
+center component center 
+props propirties pass data to paticular proprty
+states 
+async = time to wait and load
+colection 
+where all the elements in search
+slice = it will slice the content of the arry
+
+charAt() = 
+
+Props in FlatList
+
+
+data
+renderItem
+keyExtractor
+onEndReached
+onEndThreshold  
+
+jsx = java script xml

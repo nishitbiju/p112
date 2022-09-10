@@ -1,0 +1,9 @@
+                                   PYTHON
+
+int() = integer {eg:10,2,-4,-45}                      
+float() = a number with decimal point {23.5,234.4,2.3}
+bool() = converting a value to a boolean
+str() = to convert a value to string 
+              
+shutel module = 
+os module = 	
